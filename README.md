@@ -4,7 +4,7 @@
 
 :ballot_box_with_check: I continue to improve myself and learn new technologies.
 
-</br>
+
 
 
 ### Languages & Tools:
@@ -23,14 +23,14 @@
 [<img width="25" height="25" src=https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8 />][postman]
 [<img width="25" height="25" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png />][sql]
 
-<br />
 
 ### Connect With Me:
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/[LinkedIn].svg" />
+[<img  width="22" src="https://img.favpng.com/25/4/21/linkedin-facebook-social-media-font-awesome-icon-png-favpng-QRqmwk6cNZRQZwxSAJpYRt4Rf_t.jpg" />
 ][Linkedin]
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/[Gmail].svg" /> ][[Gmail](mailto:ozgurkarakas025@gmail.com)]
+[<img  width="22" src="https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901__480.png" /> ][Gmail]
 
+[Gmail]:ozgurkarakas025@gmail.com
 [Linkedin]:https://www.linkedin.com/in/ozgurkarakas06/
 
 
