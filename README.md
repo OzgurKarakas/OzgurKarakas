@@ -27,7 +27,7 @@
 ### Connect With Me:
 
 <p><a href="https://www.linkedin.com/in/ozgurkarakas06/" target="blank" rel=”noopener”><img src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="ozgurkarakas" height="25" width="25" /></a></p>
-<p><a href="ozgurkarakas025@gmail.com" src="https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901__480.png"></a></p>
+<p><a href="mailto:ozgurkarakas025@gmail.com" target="blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="ozgurkarakas025@gmail.com" height="25" width="25"></img></a></p>
 
 [html]:https://www.w3schools.com/html/
 [css]:https://www.w3schools.com/css/
