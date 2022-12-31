@@ -3,20 +3,12 @@
 
   <br/>
 
-:ballot_box_with_check: I continue to improve myself and learn new technologies.
+<p align="center">:ballot_box_with_check: I continue to improve myself and learn new technologies. </p>
 
-:ballot_box_with_check: Ask me about Javascript, React and Node.js.
+<p align="center">:sparkler: Ask me about Javascript, React and Node.js. </p>
 
-:notebook_with_decorative_cover: I’m currently learning Typescript, Redux.
+<p align="center">:seedling: I’m currently learning Typescript, Redux. </p>
 
-
-### Connect With Me:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/ozgurkarakas06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozgur-karakas" height="45" width="45" /></a>
-&nbsp;
- <a href="mailto:ozgurkarakas025@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="ozgurkarakas025@gmail.com" height="45" width="45" /></a>
-</p>
 
 <br/>
 
@@ -38,6 +30,14 @@
 [<img width="50" height="50" src=https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8 />][postman]
 [<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png />][vscode]
 [<img width="50" height="50" src=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg />][git]
+
+### Connect With Me:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ozgurkarakas06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozgur-karakas" height="45" width="45" /></a>
+&nbsp;
+ <a href="mailto:ozgurkarakas025@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="ozgurkarakas025@gmail.com" height="45" width="45" /></a>
+</p>
 
 
 [html]:https://www.w3schools.com/html/
