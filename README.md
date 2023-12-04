@@ -24,7 +24,7 @@
 [<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png />][css]
 [<img width="50" height="50" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg />][sass]
 [<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png />][typescript]
-[<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png />][wordpress]
+[<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png />][react native]
 [<img width="50" height="50" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg />][mongodb]
 [<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png />][sql]
 [<img width="50" height="50" src=https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8 />][postman]
