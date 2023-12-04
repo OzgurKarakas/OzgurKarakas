@@ -7,7 +7,7 @@
 
 <p align="center">:sparkler: Ask me about Javascript, React and Node.js. </p>
 
-<p align="center">:seedling: I’m currently learning Typescript, Redux. </p>
+<p align="center">:seedling: I’m currently learning Next.js. </p>
 
 
 <br/>
