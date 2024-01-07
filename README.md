@@ -1,5 +1,5 @@
   <h1 align="center"> Hi 👋, I'm Özgür </h1>
-  <h2 align="center">Front-End Developer :rocket:</h2>
+  <h2 align="center">Software Developer :rocket:</h2>
 
   <br/>
 
