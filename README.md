@@ -5,15 +5,16 @@
 
 <p align="center">:ballot_box_with_check: I continue to improve myself and learn new technologies. </p>
 
-<p align="center">:sparkler: Ask me about Javascript, React, React Native and Node.js. </p>
+<p align="center">:sparkler: Ask me about Javascript, React, Next.js, React Native and Node.js. </p>
 
-<p align="center">:seedling: I’m currently learning Next.js. </p>
+<p align="center">:seedling: I’m currently learning Python and AI.</p>
 
 
 <br/>
 
 ### Languages & Tools:
 
+[<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/2ebcebd7b163b2ab12cb5a40bf29264799c81c03/topics/nextjs/nextjs.png/>][nextjs]
 [<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png />][bootstrap]
 [<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png />][react]
 [<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png />][javascript]
@@ -55,4 +56,6 @@
 [typescript]: https://www.typescriptlang.org/
 [sass]:https://sass-lang.com
 [redux]:https://redux.js.org
+[nextjs]:https://nextjs.org/
+
 
