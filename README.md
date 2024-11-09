@@ -14,17 +14,16 @@
 
 ### Languages & Tools:
 
-[<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/2ebcebd7b163b2ab12cb5a40bf29264799c81c03/topics/nextjs/nextjs.png/>][nextjs]
-[<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png />][bootstrap]
 [<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png />][react]
 [<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png />][javascript]
+[<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png />][typescript]
 [<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png />][node]
 [<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png />][express]
+[<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png />][bootstrap]
 [<img width="50" height="50" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg />][redux]
 [<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png />][html]
 [<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png />][css]
 [<img width="50" height="50" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg />][sass]
-[<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png />][typescript]
 [<img width="50" height="50" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg />][mongodb]
 [<img width="50" height="50" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png />][sql]
 [<img width="50" height="50" src=https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8 />][postman]
@@ -56,6 +55,5 @@
 [typescript]: https://www.typescriptlang.org/
 [sass]:https://sass-lang.com
 [redux]:https://redux.js.org
-[nextjs]:https://nextjs.org/
 
 
