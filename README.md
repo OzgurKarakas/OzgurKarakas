@@ -20,7 +20,7 @@
 
 ---
 
-## 👨‍💻 Hakkımda
+## 👨‍💻 About
 
 ```typescript
 const ozgur = {
