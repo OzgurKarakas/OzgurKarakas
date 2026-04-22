@@ -11,10 +11,10 @@
 
 ### `< Software Developer />`
 
-*Building pixel-perfect interfaces & scalable mobile experiences*
+*Always learning, always building — one technology at a time.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Mail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/tr/ozgurkarakas06)
+[![Mail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ozgurkarakas025@gmail.com)
 
 </div>
 
@@ -25,7 +25,7 @@
 ```typescript
 const ozgur = {
   role: "Software Developer",
-  focus: ["React Ecosystem", "React Native", "Scalable UI"],
+  focus: ["Clean Architecture", "Developer Experience", "Continuous Learning"],
   currentlyBuilding: ["SaaS Products 🚀"],
   philosophy: "Clean code is not written by following rules — it is written by someone who cares.",
 };
@@ -51,15 +51,22 @@ const ozgur = {
 ### ⚙️ State & Data
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=zustand&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![Formik](https://img.shields.io/badge/Formik-172B4D?style=flat-square&logo=formik&logoColor=white)
 
 ### 🔧 Backend & DevOps
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
@@ -68,36 +75,16 @@ const ozgur = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=OzgurKarakas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzgurKarakas&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=OzgurKarakas&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 📬 Get in Touch
-
-<div align="center">
-
-Got a project idea? Let's talk!
-
-[![LinkedIn](https://img.shields.io/badge/Find_Me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Send Mail](https://img.shields.io/badge/Send_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-</div>
-
----
-
-<div align="center">
-
-*"First, solve the problem. Then, write the code."* — John Johnson
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6366f1&style=flat-square&label=Profile+Views)
-
-</div>
